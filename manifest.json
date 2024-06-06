@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Focus Extension", 
+    "version": "1.0",
+    "description": "Automatically focuses on the active tab and closes others.",
+    "permissions": ["tabs"],
+    "action": {
+      "default_popup": "home.html",
+      "default_icon": "icon.png"
+    }
+  }
+  
